@@ -3,7 +3,7 @@
 <p>Matéria ministrada pelo professor: <strong>Fischer Stefan</strong></p>
 
 <h2 align="center">🎯Objetivo</h2>
-<p>Projeto desenvolvido a fim de aplicar o método de mínimos quadrados perfeito, aprendido na reta final do semestre, em questões propostas pelo professor</p>
+<p>Desenvolvido a fim de aplicar o método de mínimos quadrados perfeito, aprendido na reta final do semestre, em questões propostas pelo professor</p>
 
 <h2 align="center">💻Tecnologias</h2>
 <ul>
@@ -16,7 +16,7 @@
 <p>Subject taught by the professor: <strong>Fischer Stefan</strong></p>
 
 <h2 align="center">🎯Objective</h2>
-<p>Developed project aiming to apply the least squares methods, learned at the end of semester, with question given by the professor.</p>
+<p>Developed aiming to apply the least squares methods, learned at the end of semester, with question given by the professor.</p>
 
 <h2 align="center">💻Technologies</h2>
 <ul>
