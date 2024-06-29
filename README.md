@@ -16,7 +16,7 @@
 <p>Subject taught by the professor: <strong>Fischer Stefan</strong></p>
 
 <h2 align="center">🎯Objective</h2>
-<p>Developed aiming to apply the least squares methods, learned at the end of semester, with question given by the professor.</p>
+<p>Developed aiming to apply the least squares methods, learned at the end of semester, with questions given by the professor.</p>
 
 <h2 align="center">💻Technologies</h2>
 <ul>
